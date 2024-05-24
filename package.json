@@ -1,5 +1,5 @@
 {
-  "name": "simple-progressbar",
+  "name": "@surya-roxx/simple-progressbar",
   "version": "1.0.0",
   "description": "simple progressbar in react",
   "main": "dist/index.js",
